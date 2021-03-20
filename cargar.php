@@ -19,8 +19,6 @@ if (isset($_POST['cargar'])){
     $_SESSION['message']='Informacion cargada exitosamente!';
     $_SESSION['message_type']='success';
     header("Location: index.php");
-    // hola
-    //hjolaa
 
 
 }
